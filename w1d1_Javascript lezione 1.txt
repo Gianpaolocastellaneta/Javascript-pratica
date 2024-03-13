@@ -1,0 +1,5 @@
+1= Un Algoritmo è una serie di passaggi per la risoluzione di un problema , nel dettaglio una serie di istruzioni che diamo al computer per aiutarlo step dopo step a fare qualcosa. Come per esempio cucinare un dolce o contare fino a 10, indichiamo una serie di passaggi così da guidare con istruzioni dettagliate il computer ad effettuare tutto al meglio.
+
+2= Le variabili sono contenitori che hanno nomi unici e si posso riutilizzare. Immaginiamo una variabile come un contenitore che contenga il nome di una persona che all'occorrenza si possa sempre modificare senza alterare il contenitore stesso che identifica il nome.
+
+3= Undefined e Null non sono la stessa cosa potrebbe sembrare ma non lo è. Undefined indica una variabile che è stata dichiarata ma non è stato assegnato un suo valore . Mentre Null indica la mancanza di un valore esplicitato direttamente nel codice come una variabile vuota dove non c'è nulla. 
